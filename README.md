@@ -3,7 +3,8 @@ Fortify FPR Reporter, reads basic vulnerabilities info from Micro-Focus Fortify 
 It is a very basic implementation could be improoved but it works and gives an help to understand the .fpr file dissected for this porpouse.
  Run the script to know how to use
  
-@author : Christian Nicita <quest@freaknet.org>
+@author : Christian Nicita quest [at] freaknet [dot] org
+
 @license: This script is released under GPL-3.0 licence
 
 @ToDo : 1. implement fpr version controll check; 
